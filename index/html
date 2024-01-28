@@ -1,0 +1,10 @@
+<html>
+    <body></body>
+        <head> <linkrel="stylesheet" href="./style.css"></head>
+            <title></title>
+                <link></link>
+    <h1> мой котик</h1>
+        <p> У меня живет котёнок. Его зовут Зевс.</p> 
+        <p> Он маленький, серого цвета, пушистый и очень умный. Я люблю его всем сердцем. Мы с ним гуляем по вечерам. Иногда мы играем, но чаще всего любим смотреть в окно.</p>
+            <img src="https://www.sakhalinzoo.ru/upload/photos/650a793a66e3a_1695185210.jpg"/>
+</html>
